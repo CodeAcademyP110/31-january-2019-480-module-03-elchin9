@@ -1,0 +1,325 @@
+body {
+	
+	background: #b32f3b;
+
+}
+#wrapper{
+	width: 1000px;
+	margin: 0 auto;
+
+}
+#basliq{
+	width: 1000px;
+	margin-left: 50px;
+
+}
+.logo{
+	width: 200px;
+	height: 30px;
+	font-size: 30px;
+	color: white;
+	display: inline-block;
+	margin-left: 20px;
+}
+.find{
+	width: 350px;
+	height: 30px;
+	background: white;
+	display: inline-block;
+	margin-left: 20px;
+}
+.upload{
+	width: 100px;
+	height: 30px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	position: absolute;
+	top: 9px;
+	left: 820px;
+
+
+}
+.contact{
+	width: 50px;
+	height: 30px;
+	background: white;
+	display: inline-block;
+	margin-left: 10px;
+	position: absolute;
+	left: 950px;
+}
+.waseem{
+	width: 40px;
+	height: 30px;
+	color: white;
+    display: inline-block;
+    margin-left: 10px;
+    position: absolute;
+    left: 1020px;
+}
+#menu{
+	width:1000px;
+	height:20px;
+}
+.videos{
+	width: 80px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.people{
+	width: 80px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.documents{
+	width:100px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.events{
+	width: 70px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.communities{
+	width: 110px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.favorites{
+	width: 80px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+.channels{
+	width: 80px;
+	height: 20px;
+	color: white;
+	display: inline-block;
+}
+#activity{
+	width: 1000px;
+	height: 500px;
+}
+.videoss{
+	width: 600px;
+	height: 300px;
+	display: inline-block;
+	font-size: 30px;
+	color: white;
+	float: left;
+	margin-top: 20px;
+}
+	.aktiv{
+	width: 200px;
+	height: 400px;
+	float: right;
+	font-size: 30px;
+	color: white;
+	margin-top: 20px;
+	margin-right: 200px;
+}
+.clear{
+	clear: right;
+}
+.row1{
+    width: 600px;
+    height: 150px;
+}
+.row2{
+	width: 600px;
+	height: 70px;
+}
+.col1{
+	width: 350px;
+	height: 300px;
+	background: white;
+	display: inline-block;
+}
+.col2{
+	width: 170px;
+	height: 300px;
+	display: inline-block;
+}
+.colrow1{
+	width: 147px;
+	height: 150px;
+	background: white;
+	margin-bottom: 6px;
+}
+.colrow2{
+	width: 147px;
+	height: 144px;
+	background: white;
+}
+.row2col1{
+	width: 170px;
+	height: 150px;
+	background: white;
+	display: inline-block;
+	margin-right: 1px;
+}
+.row2col2{
+	width: 170px;
+	height: 150px;
+	background: white;
+	display: inline-block;
+	margin-right: 1px;
+}
+.row2col3{
+	width: 146px;
+	height: 150px;
+	border: 1px solid white;
+	display: inline-block;
+}
+.sutun1{
+	width: 200px;
+	height: 50px;
+}
+.sut1col1{
+	width: 90px;
+	height: 60px;
+	background: white;
+	display: inline-block;
+	
+}
+.sut1col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+
+}
+.sutun2{
+	width:200px;
+	height: 50px;
+}
+.sut2col1{
+	width: 90px;
+	height: 60px;
+    background: white;
+    display: inline-block;
+    margin-top: 20px;
+}
+.sut2col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+}
+.sut3col1{
+	width: 90px;
+	height: 60px;
+    background: white;
+    display: inline-block;
+    margin-top: 40px;
+}
+.sut3col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+}
+.sut4col1{
+	width: 90px;
+	height: 60px;
+    background: white;
+    display: inline-block;
+    margin-top: 3px;
+}
+.sut4col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+}
+.sut5col1{
+	width: 90px;
+	height: 60px;
+    background: white;
+    display: inline-block;
+    margin-top: 3px;
+}
+.sut5col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+}
+.sut6col1{
+	width: 90px;
+	height: 60px;
+    background: white;
+    display: inline-block;
+    margin-top: 3px;
+}
+.sut6col2{
+	width: 90px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 0px;
+	text-align: right;
+}
+#peoplee{
+	width: 1000px;
+	height: 362px;
+	margin-top: 10px;
+}
+.peoples{
+	width: 600px;
+	height: 300px;
+	display: inline-block;
+	font-size: 30px;
+	color: white;
+	float: left;
+	margin-top: 20px;
+}
+.stunum{
+	width:200px;
+	height: 50px;
+}
+.sutunum1{
+width: 90px;
+	height: 90px;
+    background: white;
+    display: inline-block;
+    margin-top: 3px;
+}
+.documents1{
+	width: 600px;
+	height: 300px;
+	display: inline-block;
+	font-size: 30px;
+	color: white;
+	float: left;
+	position: absolute;
+	top: 1134px;
+}
+
+.aboutt{
+	display: inline-block;
+	color: white;
+}
+.copy{
+	color: white
+}
+.prive{
+	color: white;
+	display: inline-block;
+}
+.term{
+	color: white;
+	display: inline-block;
+}
